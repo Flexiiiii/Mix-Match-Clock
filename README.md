@@ -3,7 +3,7 @@
 #### the dots at the bottom means you add a minute to your time, example:
 
 #### quarter past eight + 2 dots  ->  8:17
-#### ten to 5 + 3 dots -> 4:53
+#### ten to five + 3 dots -> 4:53
 
 ## To use
 
