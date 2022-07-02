@@ -4,3 +4,12 @@
 
 #### quarter past eight + 2 dots  ->  8:17
 #### ten to 5 + 3 dots -> 4:53
+
+## To use
+
+#### npm i
+#### npm run dev
+
+## To do
+
+#### t'was very late when doing this so there is no auto update, however it is svelte so..
